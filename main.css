@@ -226,7 +226,7 @@ section {
     box-shadow: 0 0 5rem var(--main-color);
 }
 .home-img {
-    min-width: 50rem;
+    width: 50rem;
     height: 50rem;
     border-radius: 50%;
 }
@@ -816,7 +816,7 @@ section {
     }
     .home-img {
         margin-top: 5rem;
-        max-width: 5rem;
+        width: 5rem;
         height: 5rem;
     }
     .home-content h1 {
