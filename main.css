@@ -811,6 +811,12 @@ section {
 }
 
 @media (max-width: 465px) {
+    .section {
+        padding: 5rem 1.5rem;
+    }
+    .service-box p {
+        margin: 0;
+    }
     .logo {
         font-size: 2rem;
     }
