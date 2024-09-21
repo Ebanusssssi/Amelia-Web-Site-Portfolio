@@ -815,8 +815,9 @@ section {
         font-size: 2rem;
     }
     .home-img {
-        min-width: 35rem;
-        height: 35rem;
+        margin-top: 5rem;
+        min-width: 25rem;
+        height: 25rem;
     }
     .home-content h1 {
         font-size: 5rem;
