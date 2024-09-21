@@ -816,6 +816,7 @@ section {
     }
     .service-box p {
         margin: 0;
+        margin-top: 2rem;
     }
     .logo {
         font-size: 2rem;
