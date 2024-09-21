@@ -816,7 +816,7 @@ section {
     }
     .home-img {
         margin-top: 5rem;
-        min-width: 5rem;
+        width: 5rem;
         height: 5rem;
     }
     .home-content h1 {
