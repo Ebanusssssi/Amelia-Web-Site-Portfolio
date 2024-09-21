@@ -823,8 +823,8 @@ section {
     }
     .home-img {
         margin-top: 5rem;
-        max-width: 15rem;
-        max-height: 15rem;
+        max-width: 25rem;
+        max-height: 25rem;
     }
     .home-content h1 {
         font-size: 5rem;
